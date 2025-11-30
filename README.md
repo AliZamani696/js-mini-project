@@ -1,7 +1,8 @@
-#JAVASCRIPT HTML CSS
+# JAVASCRIPT HTML CSS
 
-#Three inseparable friends
+# Three inseparable friends
 
 ---
 
-In this repository I tried to implement a very simple project.🧱🧱⚒
+In this repository I tried to implement a very simple project. # 🧱🧱⚒
+------------------------------------------
